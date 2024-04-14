@@ -1,0 +1,62 @@
+Rows with one or more NaN values:
+Empty DataFrame
+Columns: [Date, Temperature, Humidity, Elevation, Petrol tax, Nifty 50 turnover, Number of dispensers in fuel station, Storage capacity, Number of vehicles visiting the station, Petrol Sold, Diesel Sold]
+Index: []
+Epoch [1/50], Loss: 0.3168
+Epoch [2/50], Loss: 0.2953
+Epoch [3/50], Loss: 0.2745
+Epoch [4/50], Loss: 0.2541
+Epoch [5/50], Loss: 0.2341
+Epoch [6/50], Loss: 0.2141
+Epoch [7/50], Loss: 0.1939
+Epoch [8/50], Loss: 0.1734
+Epoch [9/50], Loss: 0.1525
+Epoch [10/50], Loss: 0.1312
+Epoch [11/50], Loss: 0.1100
+Epoch [12/50], Loss: 0.0902
+Epoch [13/50], Loss: 0.0744
+Epoch [14/50], Loss: 0.0679
+Epoch [15/50], Loss: 0.0762
+Epoch [16/50], Loss: 0.0892
+Epoch [17/50], Loss: 0.0915
+Epoch [18/50], Loss: 0.0849
+Epoch [19/50], Loss: 0.0762
+Epoch [20/50], Loss: 0.0699
+Epoch [21/50], Loss: 0.0669
+Epoch [22/50], Loss: 0.0666
+Epoch [23/50], Loss: 0.0678
+Epoch [24/50], Loss: 0.0694
+Epoch [25/50], Loss: 0.0709
+Epoch [26/50], Loss: 0.0720
+Epoch [27/50], Loss: 0.0724
+Epoch [28/50], Loss: 0.0722
+Epoch [29/50], Loss: 0.0716
+Epoch [30/50], Loss: 0.0705
+Epoch [31/50], Loss: 0.0693
+Epoch [32/50], Loss: 0.0681
+Epoch [33/50], Loss: 0.0670
+Epoch [34/50], Loss: 0.0663
+Epoch [35/50], Loss: 0.0659
+Epoch [36/50], Loss: 0.0659
+Epoch [37/50], Loss: 0.0662
+Epoch [38/50], Loss: 0.0666
+Epoch [39/50], Loss: 0.0670
+Epoch [40/50], Loss: 0.0673
+Epoch [41/50], Loss: 0.0673
+Epoch [42/50], Loss: 0.0671
+Epoch [43/50], Loss: 0.0668
+Epoch [44/50], Loss: 0.0664
+Epoch [45/50], Loss: 0.0660
+Epoch [46/50], Loss: 0.0658
+Epoch [47/50], Loss: 0.0657
+Epoch [48/50], Loss: 0.0657
+Epoch [49/50], Loss: 0.0658
+Epoch [50/50], Loss: 0.0659
+C:\Users\user\anaconda3\lib\site-packages\sklearn\metrics\_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+C:\Users\user\anaconda3\lib\site-packages\sklearn\metrics\_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+Petrol MAE: 8.54
+Petrol RMSE: 10.09
+Diesel MAE: 8.99
+Diesel RMSE: 10.28
